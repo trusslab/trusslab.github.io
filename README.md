@@ -2,7 +2,9 @@
 
 Trustworthy Systems Lab (TrussLab) at UC Irvine is directed by Prof. Ardalan Amiri Sani. The lab's research focus is on building trustworthy computer systems.
 
-Here, you can find links to all of our open sourced projects.
+You can find our publications [here](https://www.ics.uci.edu/~ardalan/publications.html). Below, you can find links to all of our open sourced projects.
+
+[Mousse](https://trusslab.github.io/mousse) (Coming Soon!)
 
 [Milkomeda](https://trusslab.github.io/milkomeda)
 
