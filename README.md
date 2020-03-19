@@ -4,7 +4,7 @@ Trustworthy Systems Lab (TrussLab) at UC Irvine is directed by Prof. Ardalan Ami
 
 You can find our publications [here](https://www.ics.uci.edu/~ardalan/publications.html). Below, you can find links to all of our open sourced projects.
 
-[Mousse](https://trusslab.github.io/mousse) (Coming Soon!)
+[Mousse](https://trusslab.github.io/mousse)
 
 [Milkomeda](https://trusslab.github.io/milkomeda)
 
